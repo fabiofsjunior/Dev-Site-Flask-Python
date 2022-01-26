@@ -6,3 +6,23 @@ git push (Atualiza no repositório os arquivos alterados apresentados no comando
 git reflog (apresenta as versõs dos COMMITS)
 git reset --hard "ID" (reseta a versão do código localmente. obs. ID sem aspas.)
 
+
+
+#Branchs
+
+git branch (apresenta as branchs disponivéis)
+git branch staging (criando nova branch "staging")
+git checkout "nome da branch sem as aspas" (muda a branch de: para: "branch citada")
+
+
+##Merge Branch
+
+git checkout "branch principal" > git merge "nome da branch que irá ser puxada para branch principal"
+(antes de fazer merge, utilize o comando "GIT PULL" para atualizar seu conteúdo local antes do merge"
+
+CRIANDO NOVA BRANCH
+
+git checkout -b "nome da branch sem aspas" + "qual branche padrão"
+
+#Pool Request
+
