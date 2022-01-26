@@ -24,5 +24,13 @@ CRIANDO NOVA BRANCH
 
 git checkout -b "nome da branch sem aspas" + "qual branche padrão"
 
-#Pool Request
+#Pull Request
+
+após realizar o push com o os seus commits, passe mais detalhes, no seu "PULLREQUEST"
+
+
+
+#Git Ignore
+
+touch .gitignore  (nome do arquivo/)
 
