@@ -1,0 +1,8 @@
+git Status  (Apresenta os arquivos alterados no repositório.)
+git commit -m "MENSAGEM" (Sobe uma nova versão do código)
+git add . (Prepara todos os arquivos alterados)
+git add "nome do arquivo" (prepara apenas o arquivo citado)
+git push (Atualiza no repositório os arquivos alterados apresentados no comando "GIT STATUS")
+git reflog (apresenta as versõs dos COMMITS)
+git reset --hard "ID" (reseta a versão do código localmente. obs. ID sem aspas.)
+
