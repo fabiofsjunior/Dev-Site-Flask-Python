@@ -1,0 +1,30 @@
+Link do estudo:
+https://www.youtube.com/watch?v=-qWySnuoaTM&ab_channel=CodeShow
+
+
+#Vantagens do FLASK
+
+-minimalismo
+-extensibilidade
+-liberdade
+-perfomance
+-robustez
+-padrão
+
+
+#Desvantagens do FLASK
+
+-Thread Locals - App Contexts
+-Propensão a Circular Imports
+-Extensões não oficiais e dispersas
+
+
+Flask_bootstrap = (templates)
+
+#Extensões
+
+Admin
+Banco de Dados
+Autenticação
+Debug
+APIs
