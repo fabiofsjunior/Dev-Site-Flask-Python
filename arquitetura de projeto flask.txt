@@ -28,3 +28,5 @@ Banco de Dados
 Autenticação
 Debug
 APIs
+Blueprints
+Flask_Resful
